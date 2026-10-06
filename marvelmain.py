@@ -1,3 +1,4 @@
+import os
 import sqlite3
 import logging
 
@@ -19,7 +20,7 @@ from telegram.ext import (
 # SOZLAMALAR
 # =========================================================
 
-BOT_TOKEN = ""
+BOT_TOKEN = os.getenv("BOT_TOKEN")
 ADMIN_ID = 6299950641  # BU YERGA O'Z TELEGRAM IDINGIZNI YOZING
 
 # =========================================================
