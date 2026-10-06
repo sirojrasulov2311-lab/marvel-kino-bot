@@ -19,7 +19,7 @@ from telegram.ext import (
 # SOZLAMALAR
 # =========================================================
 
-BOT_TOKEN = "8940930884:AAGesG_pZSCKOAhixYZfXhuaGriVeSRxZwg"
+BOT_TOKEN = ""
 ADMIN_ID = 6299950641  # BU YERGA O'Z TELEGRAM IDINGIZNI YOZING
 
 # =========================================================
